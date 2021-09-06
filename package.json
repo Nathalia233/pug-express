@@ -1,0 +1,19 @@
+{
+  "name": "pug-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathalia233/pug-express.git"
+  },
+  "author": "Nathalia-Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathalia233/pug-express/issues"
+  },
+  "homepage": "https://github.com/Nathalia233/pug-express#readme"
+}
